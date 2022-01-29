@@ -78,3 +78,48 @@ body{
   color: white;
   border-radius: 20px;
 }
+.icon1{
+  background-color: white;
+  height: 180px;
+  width: 250px;
+  padding: 20px;
+  color: black;
+  position: absolute;
+  top: 750px;
+  left: 190px;
+}
+.rec{
+  background-color: rgb(238, 238, 238);
+  height: 200px;
+  width: 1510px;
+}
+.square1{
+  background-color: white;
+  height: 180px;
+   width: 280px;
+   position: absolute;
+   top: 750px;
+   left: 200px;
+   padding: 20px;
+}
+.square2{
+  background-color: white;
+  height: 180px;
+  width: 280px;
+  position: absolute;
+  top: 750px;
+  left: 550px;
+  padding: 20px;
+}
+.square3{
+  background-color: rgb(92, 164, 212);
+  height: 180px;
+  width: 280px;
+  position: absolute;
+  top: 750px;
+  left: 900px;
+  padding: 20px;
+}
+.sqicon{
+  
+}
