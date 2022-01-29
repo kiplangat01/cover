@@ -1,0 +1,28 @@
+body{
+  font-family:'montserrat';
+}
+* {
+  box-sizing: border-box;
+}
+.bg-image {
+  /* The image used */
+  background-image: url("hero.png");
+  /* Full height */
+  height: 900px;
+  width: 1530px;
+  padding-right: 300px;
+  /* Center and scale the image nicely */
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+.Bname{
+  position: absolute;
+  left: 230px;
+}
+.directives{
+  word-spacing: 30px;
+  text-align: center;
+  padding-top: 6px;
+  color: white;
+}
