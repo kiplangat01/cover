@@ -1,5 +1,5 @@
 body{
-  font-family:'montserrat';
+  font-family: sans-serif;
 }
 * {
   box-sizing: border-box;
@@ -8,12 +8,12 @@ body{
   /* The image used */
   background-image: url("hero.png");
   /* Full height */
-  height: 900px;
-  width: 1530px;
+  height: 800px;
+  width: 1510px;
   padding-right: 300px;
   /* Center and scale the image nicely */
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   color: white;
 }
 .Bname{
@@ -25,4 +25,27 @@ body{
   text-align: center;
   padding-top: 6px;
   color: white;
+}
+.login{
+  position: absolute;
+  left: 1000px;
+  top: 15px;
+}
+.member{
+  position: absolute;
+  left: 1050px;
+  top: 25px;
+}
+.member>button{
+  padding: 8px 20px;
+  background-color: #5ca9dd;
+  color: white;
+  border: 3px;
+  border-radius: 4px;
+}
+.ensure{
+  font-size: 200%;
+  text-align: center;
+  padding-left: 340px;
+  padding-top: 140px;
 }
