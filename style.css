@@ -88,6 +88,7 @@ body{
   top: 750px;
   left: 190px;
 }
+/*end of div2 (*/
 .rec{
   background-color: rgb(238, 238, 238);
   height: 200px;
@@ -112,7 +113,7 @@ body{
   padding: 20px;
 }
 .square3{
-  background-color: rgb(92, 164, 212);
+  background-color: rgb(76, 166, 226);
   height: 180px;
   width: 280px;
   position: absolute;
@@ -120,6 +121,35 @@ body{
   left: 900px;
   padding: 20px;
 }
-.sqicon{
-  
+/*end of div2(rec)*/
+.sqicon1{
+  background-color: white;
+  height: 210px;
+  width: 280px;
+  position: relative;
+  padding: 20px;
+  top: 140px;
+  left: 230px;
+  text-align: center;
 }
+.sqicon2{
+  background-color: white;
+  height: 210px;
+  width: 280px;
+  position: relative;
+  padding: 20px;
+  top: -70px;
+  left: 550px;
+  text-align: center;
+}
+.sqicon3{
+  background-color: white;
+  height: 210px;
+  width: 280px;
+  position: relative;
+  padding: 20px;
+  top: -230px;
+  left: 900px;
+  text-align: center;
+}
+/*end div3 (icons)*/
