@@ -59,9 +59,22 @@ body{
   padding-top: 30px;
 }
 .quote>button{
-  padding: 10px 25px;
+  padding: 13px 25px;
   background-color: rgb(64, 163, 230);
   color: white ;
   border: 0px;
+  border-radius: 20px;
+}
+.learn{
+  border: 0px;
+  position: absolute;
+  left: 720px;
+  top: 530px; 
+}
+.learn>button{
+  padding: 12px 30px;
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
   border-radius: 20px;
 }
