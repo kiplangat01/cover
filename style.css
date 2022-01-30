@@ -233,7 +233,7 @@ body{
   height: 90px;
   width: 1100px;
   color: white;
-  background-color: #461083 ;
+  background-image: linear-gradient(to right, rgb(69, 16, 212) , rgb(189, 48, 102));
   position: absolute;
   top: 1200px;
   left: 180px;
@@ -253,6 +253,34 @@ body{
     left: 260px;
     top: 10px;
    }
-   button{
-     background-color: royalblue;
+     .subc.p0{
+     background-color: lightblue;
+     color: white;
+     height: 39px;
+     width: 90px;
+     border-radius: 5px;
+     text-align: center;
+     padding-top: 10px;
+     position: relative;
+     top: -44px;
+     left: 460px;
+   }
+   .price2{
+     text-align: center;
+     color: rgb(34, 33, 48);
+     position: relative;
+     top: -50px;
+   }
+   .mobiles{
+     position: relative;
+     left: 250px;
+   }
+   .free{
+     background-color: white;
+     width: 300px;
+     height: 500px;
+     text-align: center;
+     padding-top: 10px;
+     border: 1px solid #23A6F0;
+     border-radius: 10px;
    }
