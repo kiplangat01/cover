@@ -148,7 +148,7 @@ body{
   width: 280px;
   position: relative;
   padding: 20px;
-  top: -230px;
+  top: -250px;
   left: 900px;
   text-align: center;
 }
@@ -198,4 +198,34 @@ body{
   position: relative;
   left: 1000px;
   top: -700px;
+}
+.vector1{
+  position: absolute;
+  top: 1050px;
+  left: 180px;
+}
+.vector2{
+  position: absolute;
+  top: 1050px;
+  left: 400px;
+}
+.vector3{
+  position: absolute;
+  top: 1010px;
+  left: 580px;
+}
+.vector4{
+  position: absolute;
+  top: 1040px;
+  left: 780px;
+}
+.vector5{
+  position: absolute;
+  top: 1050px;
+  left: 1000px;
+}
+.vector6{
+  position: absolute;
+  top: 1020px;
+  left: 1200px;
 }
