@@ -485,7 +485,7 @@ body{
 
     .cinfo3{
       position: relative;
-      left: 650px;
+      left: 700px;
       top: -400px;
     }
     ul3{
@@ -494,7 +494,7 @@ body{
     }
     .cinfo4{
       position: relative;
-      left: 900px;
+      left: 1000px;
       top: -600px;
     }
     ul4{
@@ -503,10 +503,20 @@ body{
     }
     .cinfo5{
       position: relative;
-      left: 1100px;
+      left: 1250px;
       top: -800px;
     }
       ul5{
       list-style-type: none;
        line-height: 35px;
+      }
+
+
+      @media screen (width: 100px){
+        .bg-image{
+         width: 100%;
+        } 
+      
+      
+      
       }
