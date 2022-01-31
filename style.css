@@ -19,6 +19,7 @@ body{
 .Bname{
   position: absolute;
   left: 230px;
+  top: 30px;
 }
 .directives{
   word-spacing: 30px;
@@ -156,7 +157,7 @@ body{
 .industry{
   background-color: rgb(243, 241, 241);
   width: 1512px;
-  height: 2500px;
+  height: 3450px;
   position: absolute;
   top: 1500px;
 }
@@ -265,6 +266,16 @@ body{
      position: relative;
      top: -44px;
      left: 460px;
+   }
+   button9{
+     background-color: #23A6F0;
+     position: relative;
+     left: 40px;
+     top: 11px;
+     color: white;
+     padding: 10px;
+     border:1px solid white;
+     border-radius: 2px;
    }
    .price2{
      text-align: center;
@@ -398,6 +409,7 @@ body{
      .cover{
        background-color: white;
        width: 850px;
+       height: 500px;
        position: relative;
        left: 300px;
        top: 150px;
@@ -407,7 +419,7 @@ body{
        text-align: center;
        position: relative;
        top: -450px;
-       left: 80px;
+       left: 10px;
      }
       
       input{
@@ -421,7 +433,80 @@ body{
         top: -430px;
         left: 250px;
       }
-      .cover.button{
-        width: 800px;
+      button1{
+        background-color: #23A6F0;
+        color: white;
+        border-radius: 7px;
+        padding: 15px;
+        position: relative;
+        top: 30px;
+        left: 100px;
       }
-      
+      .consult{
+        position: relative;
+        top: -150px;
+        left: -70px;
+      }
+    button0{
+      background-color: #23A6F0;
+      color: white;
+      padding: 10px;
+      border-radius: 5px;
+      padding-left: 40px;
+      padding-right: 40px;
+      position: relative;
+      top: -40px;
+      left: 800px;
+    }
+    .finishing{
+      position: absolute;
+      top: 5000px;
+      color: #252B42;
+      height: 250px;
+    }
+    .cinfo1{
+       position: relative;
+       left: 120px;
+    }
+    ul1{
+      list-style-type: none;
+      line-height: 35px;
+    }
+    .cinfo2{
+        position: relative;
+        left: 400px;
+        top: -200px;
+    }
+
+    ul2{
+      list-style-type: none;
+      line-height: 35px;
+    }
+
+    .cinfo3{
+      position: relative;
+      left: 650px;
+      top: -400px;
+    }
+    ul3{
+      list-style-type: none;
+      line-height: 35px;
+    }
+    .cinfo4{
+      position: relative;
+      left: 900px;
+      top: -600px;
+    }
+    ul4{
+      list-style-type: none;
+      line-height: 35px;
+    }
+    .cinfo5{
+      position: relative;
+      left: 1100px;
+      top: -800px;
+    }
+      ul5{
+      list-style-type: none;
+       line-height: 35px;
+      }
