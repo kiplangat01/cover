@@ -1,7 +1,7 @@
 # Isurance page project
 
 ##### Kiplangat Meshack
-### It is a description of my 2nd project at moringa school.
+### It is a description of my 2nd project at moringa school (insurance web).
 
 ## Table of Content
 
@@ -25,7 +25,7 @@
 
 ### Installation Process
 
-[Go Back to the top](#Insurance web)
+[Go Back to the top](Insurance web)
 ## Technology Used
 * HTML- which was used to build the structure of the pages.
 
