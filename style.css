@@ -510,12 +510,19 @@ body{
       list-style-type: none;
        line-height: 35px;
       }
+      .socialmedia{
+        position: relative;
+        top: 3600px;
+        float: right;
+      }
 
 
-      @media screen (width: 100px){
-        .bg-image{
-         width: 100%;
-        } 
+      @media only screen and (max-width: 100px){
+        body{
+          height: 100%;
+          display: flex;
+        }
+         
       
       
       
