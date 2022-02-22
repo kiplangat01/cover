@@ -514,17 +514,11 @@ body{
         position: relative;
         top: 3600px;
         float: right;
-        p
       }
 
 
-      @media only screen and (max-width: 100px){
-        body{
-          height: 100%;
-          display: flex;
+      @media only screen and (max-width: 500px){
+        #main{
+          padding: 10px;
         }
-         
-      
-      
-      
       }

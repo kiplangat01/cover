@@ -1,38 +1,43 @@
 # Isurance page project
 
 ##### Kiplangat Meshack
+
 ### It is a description of my 2nd project at moringa school (insurance web).
 
 ## Table of Content
 
-+ [Description](#description)
-+ [Installation Requirement](#Installation)
-+ [Technology Used](#technology-used)
-+ [Reference](#reference)
-+ [Licence](#licence)
-+ [Authors Info](#author-Info)
+- [Description](#description)
+- [Installation Requirement](#Installation)
+- [Technology Used](#technology-used)
+- [Reference](#reference)
+- [Licence](#licence)
+- [Authors Info](#author-Info)
 
 ## Description
+
 <p>This is  a website that shows my 2nd moringa project.It contains all styles used and deployments of the project.</p>
 
 ## Installation
 
 ### Requirements
 
-* Either a computer,phone,tablet or an Ipad
+- Either a computer,phone,tablet or an Ipad
 
-* An access to the Internet
+- An access to the Internet
 
 ### Installation Process
 
 [Go Back to the top](Insurance web)
-## Technology Used
-* HTML- which was used to build the structure of the pages.
 
-* CSS - which was used to style the pages incuding the left aside navigation bar
+## Technology Used
+
+- HTML- which was used to build the structure of the pages.
+
+- CSS - which was used to style the pages incuding the left aside navigation bar
 
 ## Reference
-* Materialize CSS
+
+- Materialize CSS
 
 [Go Back to the top](#insurance web)
 
